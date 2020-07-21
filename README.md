@@ -61,7 +61,7 @@ Open your terminal in the fabric-samples folder and clone the project.
 
 ``` sh
 # Clone this repo
-git clone https://github.com/LorranSutter/eKYC.git
+git clone https://github.com/Nas2020/eKYC.git
 
 # Go to the project folder
 cd eKYC
